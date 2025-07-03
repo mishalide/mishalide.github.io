@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+hello world!! 💾 si ça marche pas j'vais capoter pour vrai
