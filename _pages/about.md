@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>image will come soon</p>
-    <p>discord: misha.a.golubev@gmail.com</p>
-    <p>currently in texas</p>
+    <p>sorry, not at home so can't make any fancy PyMOL renders — use this one courtesy of Jumper, J. et al via Wikimedia Commons</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
