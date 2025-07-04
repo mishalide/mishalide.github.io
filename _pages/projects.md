@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: this page is a placeholder for the time being, more to come soon (or not)
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [robotics, work, fun]
 horizontal: false
 ---
 

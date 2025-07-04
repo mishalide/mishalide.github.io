@@ -6,3 +6,4 @@ repo_description_lines_max: 2
 github_repos:
   - mishalide/mishalide.github.io
   - mishalide/old-website
+  - mishalide/mishas-fastq-toolkit
